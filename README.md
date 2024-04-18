@@ -1,5 +1,5 @@
-# 💫 About Me:
-AI powered YouTube short generator
+# 💫 Hi there:
+Im a freelance software consultant from the UK. Ive been a coder since the 80's and love all things interesting.
 
 
 ## 🌐 Socials:
